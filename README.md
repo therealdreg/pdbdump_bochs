@@ -1,8 +1,15 @@
 # pdbdump_bochs
 
-Dump PDB Symbols for Bochs Debugging Format
+Dump PDB Symbols including support for Bochs Debugging Format (with wine support)
 
-pdbdump_bochs.exe can works in wine (see below)
+If you need download symbol from a file use this project:
+
+- https://github.com/Biswa96/PDBDownloader
+
+Example of use on wine:
+```
+wine PDBDownloader.exe advapi32.dll
+```
 
 ## Example with ntkrnlpa loaded in Bochs at 0x804D7000
 
