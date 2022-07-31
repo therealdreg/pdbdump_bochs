@@ -145,6 +145,7 @@ dbghelp & more from:
 
 # Related
 
+Helper script for Windows kernel debugging with IDA Pro on native Bochs debugger (including PDB symbols):
 - https://github.com/therealdreg/ida_bochs_windows
 
 Helper scripts for windows debugging with symbols for Bochs and IDA Pro (PDB files). Very handy for user mode <--> kernel mode:
