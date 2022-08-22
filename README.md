@@ -157,3 +157,6 @@ This project is just a mod from pdbdump by Martin Ridgers, pdbdump 'at' fireproo
 
 - https://gist.github.com/mridgers/2968595
 
+Tools for Linux kernel debugging on Bochs (including symbols, native Bochs debugger and IDA PRO):
+- https://github.com/therealdreg/bochs_linux_kernel_debugging
+
